@@ -39,7 +39,7 @@
 
 ---
 
-![ihor-pidhornyi's github stats](https://github-readme-stats.vercel.app/api?username=ihor-pidhornyi&show_icons=true&count_private=true)
+![ihor-pidhornyi's Github stats](https://github-readme-stats.vercel.app/api?username=ihor-pidhornyi&show_icons=true&count_private=true)
 
 [twitter]: https://twitter.com/IPidhornyi
 [linkedin]: https://www.linkedin.com/in/mapiiex/
