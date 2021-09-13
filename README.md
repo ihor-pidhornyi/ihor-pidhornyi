@@ -3,7 +3,7 @@
 - 🧑‍💻 Programming is my hobby at first!
 - 🎓 I always try to master new things I get to know about
 - 🪄 If you have any questions feel free to ask: podhorhyi_2002@ukr.net
-- 🎸 Fun fact: I love to play guitar
+- 🎸 Fun fact: I love playing a guitar
 
 ### Connect with me:
 
