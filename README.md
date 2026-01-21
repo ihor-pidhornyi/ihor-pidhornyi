@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Programming is my hobby at first!
 - 🎓 I always try to master new things I get to know about
-- ❓ If you have any questions feel free to ask: podhorhyi_2002@ukr.net
+- ❓ If you have any questions feel free to ask: podhorhyi2002@gmail.com
 
 ### Connect with me:
 
